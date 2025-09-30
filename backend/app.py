@@ -45,9 +45,8 @@ fleet_analytics = None
 
 # Supabase connection
 load_dotenv()
-SUPABASE_URL = "https://ulqaisxxraujxnmrkprp.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVscWFpc3h4cmF1anhubXJrcHJwIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1OTE4MzE2NSwiZXhwIjoyMDc0NzU5MTY1fQ.-LXhEtjzG4EF07Z80NOeSn0xtzJsl71N1iroDw-yUDc"
-
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 try:
     supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
     print("✅ Supabase connected successfully")
