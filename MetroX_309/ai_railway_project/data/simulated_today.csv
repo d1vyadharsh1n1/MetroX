@@ -1,0 +1,26 @@
+dayid,date,train_id,depot,rs_days_from_plan,sig_days_from_plan,tel_days_from_plan,job_open_count,job_critical_count,branding_req_hours,branding_alloc_hours,mileage_km,bogie_wear_index,cleaning_slot,stabling_position,estimated_shunting_mins,prev_night_shunting_count,iot_temp_avg_c,hvac_alert,last_maintenance_date,predicted_failure_risk,manual_override_flag,assigned_status
+30-09-KM-T101,2025-09-30,KM-T101,Pettah Depot,76,49,50,0,0,15.1,18.32,8349,0.1643,No-Clean,Bay-11,32,3,26.02,0,2025-09-10,0.216,0,Pending
+30-09-KM-T102,2025-09-30,KM-T102,Tripunithura Depot,23,86,45,5,0,9.54,17.57,1791,0.4066,Night-B,Bay-6,16,0,25.69,1,2025-08-04,0.174,0,Pending
+30-09-KM-T103,2025-09-30,KM-T103,Tripunithura Depot,77,46,2,3,0,17.48,15.06,7153,0.422,Night-A,Bay-11,44,0,26.62,0,2025-07-16,0.128,0,Pending
+30-09-KM-T104,2025-09-30,KM-T104,Tripunithura Depot,49,56,54,8,0,13.69,19.22,7403,0.2131,No-Clean,Bay-2,40,1,28.44,1,2025-07-23,0.192,0,Pending
+30-09-KM-T105,2025-09-30,KM-T105,Pettah Depot,0,85,28,0,0,7.33,14.92,6679,0.6628,No-Clean,Bay-10,20,1,27.84,0,2025-07-30,0.044,0,Pending
+30-09-KM-T106,2025-09-30,KM-T106,Pettah Depot,50,41,64,5,0,12.64,8.11,7844,0.6847,Night-A,Bay-7,34,0,25.01,0,2025-08-14,0.101,0,Pending
+30-09-KM-T107,2025-09-30,KM-T107,Tripunithura Depot,31,37,86,7,0,8.87,15.4,6556,0.1171,No-Clean,Bay-9,38,1,25.51,1,2025-09-22,0.344,0,Pending
+30-09-KM-T108,2025-09-30,KM-T108,Pettah Depot,80,62,49,0,0,5.24,15.77,3598,0.6353,Night-B,Bay-12,37,0,25.58,1,2025-08-07,0.452,0,Pending
+30-09-KM-T109,2025-09-30,KM-T109,Pettah Depot,84,45,59,8,0,12.24,9.57,9759,0.5866,Night-A,Bay-12,15,1,25.97,0,2025-08-11,0.258,0,Pending
+30-09-KM-T110,2025-09-30,KM-T110,Pettah Depot,1,58,41,1,0,16.02,5.08,3586,0.1411,Night-B,Bay-7,27,3,26.5,0,2025-08-25,0.196,0,Pending
+30-09-KM-T111,2025-09-30,KM-T111,Tripunithura Depot,82,12,1,5,0,5.53,0.25,5593,0.683,No-Clean,Bay-15,17,3,25.89,1,2025-07-09,0.442,0,Pending
+30-09-KM-T112,2025-09-30,KM-T112,Pettah Depot,27,16,28,2,0,10.47,2.37,4055,0.3421,Night-A,Bay-12,24,1,25.69,0,2025-07-30,0.384,0,Pending
+30-09-KM-T113,2025-09-30,KM-T113,Tripunithura Depot,41,37,26,9,0,7.41,12.14,9730,0.614,Night-B,Bay-3,17,3,27.23,0,2025-09-27,0.391,0,Pending
+30-09-KM-T114,2025-09-30,KM-T114,Tripunithura Depot,51,76,81,3,0,7.92,3.09,9801,0.6915,Night-A,Bay-6,29,0,26.39,0,2025-07-21,0.077,0,Pending
+30-09-KM-T115,2025-09-30,KM-T115,Tripunithura Depot,3,49,86,0,0,10.91,11.35,2940,0.6688,Night-B,Bay-11,37,0,25.35,1,2025-07-08,0.089,0,Pending
+30-09-KM-T116,2025-09-30,KM-T116,Pettah Depot,74,25,58,9,0,12.71,0.16,7535,0.4264,Night-A,Bay-13,35,0,28.37,1,2025-09-13,0.352,0,Pending
+30-09-KM-T117,2025-09-30,KM-T117,Pettah Depot,22,28,21,5,0,12.81,13.66,2871,0.2128,No-Clean,Bay-15,27,1,25.62,0,2025-09-04,0.047,0,Pending
+30-09-KM-T118,2025-09-30,KM-T118,Pettah Depot,23,13,5,0,0,6.51,6.86,3168,0.3866,Night-B,Bay-13,42,1,26.53,0,2025-08-01,0.311,0,Pending
+30-09-KM-T119,2025-09-30,KM-T119,Tripunithura Depot,14,40,23,7,0,8.28,7.54,6469,0.1903,Night-A,Bay-14,16,0,27.02,0,2025-09-22,0.353,0,Pending
+30-09-KM-T120,2025-09-30,KM-T120,Pettah Depot,21,12,37,5,0,5.87,1.55,8122,0.4319,Night-A,Bay-2,22,2,26.83,0,2025-09-24,0.283,0,Pending
+30-09-KM-T121,2025-09-30,KM-T121,Tripunithura Depot,37,54,42,3,0,9.15,2.33,6236,0.2635,Night-B,Bay-8,35,3,27.71,0,2025-09-20,0.169,0,Pending
+30-09-KM-T122,2025-09-30,KM-T122,Pettah Depot,17,88,3,5,0,13.59,0.73,6239,0.6364,Night-A,Bay-6,23,0,25.61,0,2025-08-11,0.157,0,Pending
+30-09-KM-T123,2025-09-30,KM-T123,Pettah Depot,18,8,89,8,0,16.13,9.92,6785,0.4715,Night-A,Bay-4,43,3,25.84,0,2025-07-15,0.072,0,Pending
+30-09-KM-T124,2025-09-30,KM-T124,Tripunithura Depot,78,52,16,4,0,11.37,14.2,3461,0.5913,Night-B,Bay-3,42,3,27.11,0,2025-07-25,0.122,0,Pending
+30-09-KM-T125,2025-09-30,KM-T125,Tripunithura Depot,33,9,69,2,0,8.39,15.33,8034,0.3112,No-Clean,Bay-12,19,0,28.35,0,2025-09-12,0.089,0,Pending
